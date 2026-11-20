@@ -1,0 +1,1 @@
+ONE DAY WORLDWIDE is a cream, one-page news edition for Thursday 19 November 2026. The broadsheet gathers 40 stories, a stat band, a region tally, and a date-check footer into one readable image of the day's worldwide news.

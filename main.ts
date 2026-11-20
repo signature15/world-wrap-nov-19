@@ -1,14 +1,17 @@
 /**
- * One Day in World News - Thursday 19 November 2026.
- * This repository's entry is entry.png: a cream newsprint broadsheet that
- * sums up the whole world's news for Thursday 19 November 2026 on a single
- * 1024x1024 page. The masthead and red date tab set the day; an eight-cell
- * day-in-numbers strip carries the key figures (ICJ 9-6 genocide vote,
- * Anthropic's $81bn IPO price, Kumamoto's M5.7 quake, UK inflation at 3.6%);
- * three hero cards lead (the Shenzhen three-way summit, the ICJ ruling,
- * the Nasdaq debut), followed by five secondary and seven tertiary cards
- * and twenty-four region-tagged evening briefs; a date-check footer
- * separates Wednesday carryover from the day's real events.
+ * ONE DAY WORLDWIDE is a cream, one-page news edition for Thursday 19
+ * November 2026.
+ * The finished image treats the square canvas as a compact global broadsheet.
+ * Its masthead establishes the edition and anchors the day's visual identity.
+ * Forty stories carry the news from major developments to short regional briefs.
+ * A stat band turns the day's notable figures into a quick scan across the page.
+ * The main story area gives the strongest headlines room for fuller treatment.
+ * Supporting cards widen the coverage beyond those lead stories.
+ * Brief items add local voices and events from across the world's regions.
+ * A region tally makes the geographic spread visible at a glance.
+ * The cream paper, fine rules, and dense columns keep the page newspaper-like.
+ * The date-check footer distinguishes current reporting from carryover material.
+ * Together, these elements make one readable image of a single worldwide day.
  */
 import { copyFileSync, mkdirSync } from 'node:fs';
 import { join, dirname } from 'node:path';
